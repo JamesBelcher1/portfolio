@@ -1,0 +1,13 @@
+
+.name {
+    text-align: left;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: bold;
+    margin-left: 40px;
+}
+
+.navul {
+    list-style: none;
+    box-sizing: border-box;
+}
